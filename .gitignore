@@ -1,0 +1,4 @@
+constants.py
+chroma.db/
+env/
+__pycache__/
